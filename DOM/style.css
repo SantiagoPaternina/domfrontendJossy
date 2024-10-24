@@ -1,0 +1,13 @@
+.enlace{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-decoration: none;
+}
+.fondo{
+    background-color: red;
+}
+.letra{
+    font-size: 50px;
+    color: blue;
+    font-size: italic;
+}
